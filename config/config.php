@@ -12,7 +12,7 @@ database.params.password 			= 'eatspie'
 database.params.dbname   			= simpleinvoices
 database.params.port       			= 3306
 
-authentication.enabled	 			= false
+authentication.enabled	 			= true
 authentication.http 				= 
 
 export.spreadsheet	     			= xls
