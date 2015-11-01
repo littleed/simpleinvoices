@@ -7,9 +7,9 @@
 database.adapter        			= pdo_mysql
 database.utf8            			= true
 database.params.host     			= localhost
-database.params.username 			= root
-database.params.password 			= ''
-database.params.dbname   			= simple_invoices
+database.params.username 			= simplesimon
+database.params.password 			= 'eatspie'
+database.params.dbname   			= simpleinvoices
 database.params.port       			= 3306
 
 authentication.enabled	 			= false
